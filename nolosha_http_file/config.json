@@ -1,4 +1,4 @@
 {
-    "url": "http://[your_server_address]:30120/nolosha_webmap/list.json",
+    "url": "http://192.223.31.225:30120/nolosha_webmap/list.json",
     "theme": "darkmode"
 }
