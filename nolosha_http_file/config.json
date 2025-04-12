@@ -1,5 +1,4 @@
 {
-    "url": "https://nolosha-webmap-git-main-hobos-projects-79eacb81.vercel.app/nolosha_http_file/list.php",
-    "theme": "darkmode"
+  "url": "https://nolosha-webmap-git-main-hobos-projects-79eacb81.vercel.app/api/list",
+  "theme": "darkmode"
 }
-
